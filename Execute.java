@@ -18,11 +18,11 @@ public class Execute {
 		String value = null;
 		do {
 			System.out.println("Please select below option: ");
-			System.out.println("1.Inserting element: ");
-			System.out.println("2.Displaying elements: ");
-			System.out.println("3.Deleting element: ");
-			System.out.println("4.Finding element: ");
-			System.out.println("5.Updating element: ");
+			System.out.println("1.Inserting the element: ");
+			System.out.println("2.Displaying the elements: ");
+			System.out.println("3.Deleting the element: ");
+			System.out.println("4.Finding the element: ");
+			System.out.println("5.Updating the element: ");
 
 			n = sc.nextInt();
 
